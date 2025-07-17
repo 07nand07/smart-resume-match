@@ -3,7 +3,7 @@
 ---
 
 
-# 🧠 SmartResumeMatch – AI Resume-to-Job Matcher
+# SmartResumeMatch – AI Resume-to-Job Matcher
 
 SmartResumeMatch is an AI-powered application that matches resumes to job descriptions using Natural Language Processing (NLP). It processes resumes and job descriptions, extracts text, and calculates similarity scores using TF-IDF and Cosine Similarity to help recruiters find the best candidate fit.
 
