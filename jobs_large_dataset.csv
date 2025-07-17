@@ -1,0 +1,11 @@
+Job ID,Job Title,Job Description
+1,Data Engineer,"Looking for a Data Engineer with experience in ETL pipelines, SQL, AWS, and Apache Spark. Familiarity with data lakes is a plus."
+2,Machine Learning Engineer,"Seeking an ML Engineer skilled in Python, scikit-learn, TensorFlow, and model deployment. Experience with MLOps is preferred."
+3,Web Developer,"Need a Web Developer with strong HTML, CSS, JavaScript, and experience in building responsive UIs using React or Angular."
+4,Cloud Solutions Architect,"Hiring a Cloud Architect proficient in AWS, Azure, Kubernetes, and designing scalable cloud infrastructure solutions."
+5,Data Analyst,"Looking for a Data Analyst skilled in Excel, Power BI, SQL, and Python for data cleaning, visualization, and dashboard reporting."
+6,DevOps Engineer,"Searching for a DevOps Engineer with expertise in CI/CD, Docker, Jenkins, Git, and automated cloud deployments."
+7,AI Researcher,"AI Researcher role requires strong background in deep learning, NLP, and PyTorch. PhD or research experience preferred."
+8,Backend Developer,"Hiring Backend Developer with experience in Python, Node.js, REST APIs, and working with relational and NoSQL databases."
+9,Frontend Developer,"Looking for Frontend Developer with UI/UX design skills and knowledge of React, HTML5, CSS3, and Figma."
+10,Cybersecurity Analyst,"Seeking Cybersecurity Analyst with experience in network security, vulnerability scanning, and penetration testing using tools like Nessus."

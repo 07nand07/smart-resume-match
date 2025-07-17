@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Resume Matcher</title>
+</head>
+<body>
+    <h2>Upload Your Resume (.pdf)</h2>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="resume" accept=".pdf" required>
+        <button type="submit">Match Jobs</button>
+    </form>
+
+    {% if matches %}
+        <h3>Top Job Matches:</h3>
+        <ul>
+        {% for match in matches %}
+            <li><strong>{{ match['Job Title'] }}</strong> – {{ match['Match Score (%)'] }}%</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
